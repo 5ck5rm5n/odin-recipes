@@ -1,32 +1,29 @@
-# odin-recipes
+# Odin Recipes
 
 Hello everyone!
 
-I'm excited to share my first project: "Odin's Recipe". In this project, I showcase what I've learned so far in The Odin Project HTML foundations.
+I'm excited to share my first project: **Odin Recipes**. In this project, I showcase everything I've learned so far in The Odin Project HTML foundations.
 
 ## What I Learned
 
-Here's the summary of HTML elements and techniques I used in this project:
+Here’s a summary of the HTML elements and techniques I used in this project:
 
-- First I added a heading with the element <h1> to <h6> to structure content by importance.
-- Also I added a paragraph with element <p></p> wrapped the content within to group and format.
-- And for the emphasis can be <em> or alternative <i> to italicized the important text.
-- Bold element wrapped the context with the help of element <strong></strong> and alternative element to make the context bold <b></b>.
-- To make all the pages within the website connected i used the element <a> what we called anchor tag and it is also a void element followed with 'src=' with the directory of the pages.
-- I added 'rel=' and 'noopener' for security purposes and also 'noreferrer'.
-- We can also add a link by another website outside our system through anchor tag.
-- For the image that display on the screen or within each pages, I used <img> tag with 'src=' with the directory of the image or link if the image is from outside the system.
-- For listing of the items I used <ul></ul> for unordered listing and <ol></ol> for ordered list wrapped within is <li><li> element for listing.
-- I learned to quickly generate the basic HTML boilerplate using the '!' shortcut in most editors.
+- I used heading elements (`<h1>` to `<h6>`) to structure content by importance.
+- Paragraphs were added using the `<p>` tag to group and format text.
+- For emphasis, I used `<em>` or `<i>` to italicize important words.
+- To make text bold, I used `<strong>` and its alternative `<b>`.
+- I connected multiple pages using the `<a>` anchor tag with the `href` attribute for navigation.
+- I included `rel="noopener noreferrer"` on external links for better **security and privacy**.
+- Images were inserted using the `<img>` tag with the `src` attribute pointing to either local or external image sources.
+- For lists:
+  - I used `<ul>` for unordered lists and `<ol>` for ordered lists.
+  - Each list item was wrapped in an `<li>` tag.
+- I learned to quickly generate the basic HTML boilerplate using the `!` shortcut in most editors.
 
 ## Project Content
 
-This project features **my favorite filipino dishes**, complete with recipes and brief descriptions.
-You'll find a list of ingredients and instructions so you can try cooking them yourself - perfect for family gatherings and special occasions.
+This project features **my favorite Filipino dishes**, complete with recipes and brief descriptions. You’ll find a list of ingredients and instructions so you can try cooking them yourself — perfect for family gatherings or special occasions!
 
 ---
 
 Thank you for checking out my project!
-
-
-
